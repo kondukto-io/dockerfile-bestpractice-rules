@@ -11,6 +11,6 @@ The best practices that we followed are:
 Shifting tests and evaluations left in the CI/CD pipeline is a key aspect of DevSecOps. And adopting a secure by default approach 
 will improve organizations' security posture dramatically.
 
-You can find a detailed explanation of the rules in the following link.
+You can find a detailed explanation of the rules in the following [link](https://kondukto.io/blog/docker-security-best-practices-with-semgrep).
 
 *Feel free to reach us for your questions and comments.*
